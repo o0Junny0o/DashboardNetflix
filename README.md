@@ -38,7 +38,6 @@ To set up and run this project locally, you will need:
     *   `pandas==2.2.3`
     *   `streamlit==1.44.1`
     *   `plotly==5.24.1`
-    ```
 
 ## 🚀 Usage
 
